@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why 
+do you need to do it?
+
+it adds a hidden .git file to the directory.  I figure
+it is so you can use Git version control on your local
+machine.  
