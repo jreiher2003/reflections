@@ -3,4 +3,35 @@ do you need to do it?
 
 it adds a hidden .git file to the directory.  I figure
 it is so you can use Git version control on your local
-machine.  
+machine.
+
+How is the staging area different from the working 
+directory and the repository? What value do you think 
+it offers?	
+
+the staging area helps you gather up all the things you
+would like to commit to the respository.  then you can 
+add them all at once if it makes sence to do so.  
+
+How can you use the staging area to make sure you have 
+one commit per logical change?
+
+git diff --staged will see the diff in your code before you
+commit.
+
+What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Branches will help in implementing new features while maintaining
+a production copy that can be used in the meantime.  
+
+How do the diagrams help you visualize the branch structure?
+it helps you see where you are at, what state you are in and
+then how to save logical changes back to the master.  
+
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+The result is one master but with all the saved commits from master
+and the branch that merged into it.
+
