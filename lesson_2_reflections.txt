@@ -35,3 +35,7 @@ represent it in the diagram the way we do?
 The result is one master but with all the saved commits from master
 and the branch that merged into it.
 
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+
+You can't overwrite each other's files.
