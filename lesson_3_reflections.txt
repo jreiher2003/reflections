@@ -4,3 +4,9 @@ than keeping all your work local?
 when working with other repositories that are online or 
 having other programmers work on yours that would also 
 be online. 
+
+Why might you want to always pull changes manually rather 
+than having Git automatically stay up-to-date with your
+remote repository?
+
+other people may have made some commits in the mean time.  
