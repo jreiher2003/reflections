@@ -10,3 +10,17 @@ than having Git automatically stay up-to-date with your
 remote repository?
 
 other people may have made some commits in the meantime.  
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+forks are on github website, for when you don't have permission
+to make changes.  clones are the same as remotes, use directly
+or to make changes locally.  branches are for when you want 
+to make changes on your own code or make different versions
+of software you are developing.
+
+What is the benefit of having a copy of the last known 
+state of the remote stored locally?
+
+for differences and for reachability for merging or fast-forwarding
