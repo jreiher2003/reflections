@@ -24,3 +24,18 @@ What is the benefit of having a copy of the last known
 state of the remote stored locally?
 
 for differences and for reachability for merging or fast-forwarding
+
+How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+
+You could collab with dropbox and a shared folder, but updating 
+changes would get messy.  
+
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
+
+When the changes or the feature you are working on takes more
+than a day to finish.  with a branch you can be a little bit more
+exploratory.  You would want to make wild changes to a master that is
+already up and running.  So to try things out.  
